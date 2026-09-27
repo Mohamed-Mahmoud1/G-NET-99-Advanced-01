@@ -46,6 +46,12 @@
             //IRepository<int> repo;
             #endregion
 
+            #region Q7
+            //Q7:What is the 'struct' constraint? Write an example.
+            //Answer:It allows the generic parameter to accept only value types.
+            //Empolyee<double> empolyee = new Empolyee<double>();
+            #endregion
+
 
 
 

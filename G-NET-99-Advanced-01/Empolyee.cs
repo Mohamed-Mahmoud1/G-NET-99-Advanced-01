@@ -1,0 +1,11 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace G_NET_99_Advanced_01
+{
+    internal class Empolyee<T> where T:struct
+    {
+        public T Salary { get; set; }
+    }
+}
