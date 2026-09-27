@@ -40,6 +40,15 @@
             //Console.WriteLine(Utility.FindMax(numbers));
             #endregion
 
+            #region Q6
+            //Q6:What is a generic interface? Write IRepository<T>.
+            //Answer:A generic interface allows you to define an interface without specifying the data types of its members.
+            //IRepository<int> repo;
+            #endregion
+
+
+
+
 
 
         }
