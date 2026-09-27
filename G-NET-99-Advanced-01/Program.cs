@@ -34,6 +34,12 @@
 
             #endregion
 
+            #region Q5
+            //Q5:Write a generic method FindMax<T> that finds maximum value
+            //int[] numbers = { 1, 2, 7, 3, 4 };
+            //Console.WriteLine(Utility.FindMax(numbers));
+            #endregion
+
 
 
         }
