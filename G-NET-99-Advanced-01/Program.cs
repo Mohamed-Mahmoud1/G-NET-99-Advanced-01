@@ -99,6 +99,11 @@ internal class Program
         //Answer:It allows a parent reference to be assigned a child object. The out keyword means the generic parameter can only be used as an output, such as a return type or a getter.
         #endregion
 
+        #region Q16
+        //Q16:: What is contravariance? Explain the 'in' keyword.
+        //Answer:It allows a child reference to be assigned a parent object. The out keyword means the generic parameter can only be used as an input, method parameter.
+        #endregion
+
 
 
 
