@@ -94,6 +94,11 @@ internal class Program
         //Console.WriteLine(safelist.ValueOfIndex(6));
         #endregion
 
+        #region Q15
+        //Q15:: What is covariance? Explain the 'out' keyword.
+        //Answer:It allows a parent reference to be assigned a child object. The out keyword means the generic parameter can only be used as an output, such as a return type or a getter.
+        #endregion
+
 
 
 
