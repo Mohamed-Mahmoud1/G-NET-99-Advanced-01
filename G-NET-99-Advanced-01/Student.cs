@@ -4,8 +4,11 @@ using System.Text;
 
 namespace G_NET_99_Advanced_01
 {
-    internal class Student
+    internal class Student : IRepository
     {
-
+        public string GetAll()
+        {
+            return "Get All";
+        }
     }
 }

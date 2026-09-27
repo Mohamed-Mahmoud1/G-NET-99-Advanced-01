@@ -4,7 +4,7 @@ using System.Text;
 
 namespace G_NET_99_Advanced_01
 {
-    internal class Person<T> where T :class,new()
+    internal class Person<T> where T :class,IRepository,new()
     {
         public T Value { get; set; }
     }
