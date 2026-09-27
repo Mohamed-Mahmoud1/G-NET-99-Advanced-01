@@ -114,6 +114,11 @@ internal class Program
         //Answer:They work independently,each closed type has its own distinct static member.
         #endregion
 
+        #region Q19
+        //Q19:: How can you inherit from a generic class?
+        //Answer: by : Name OF Class.
+        #endregion
+
 
 
 
