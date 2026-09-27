@@ -104,6 +104,11 @@ internal class Program
         //Answer:It allows a child reference to be assigned a parent object. The out keyword means the generic parameter can only be used as an input, method parameter.
         #endregion
 
+        #region Q17
+        //Q17:What is the difference between covariance and contravariance?
+        //Answer:covariance use out keyword and contravariance use in keyword.
+        #endregion
+
 
 
 
