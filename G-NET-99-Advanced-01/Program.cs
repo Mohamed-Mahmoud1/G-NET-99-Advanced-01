@@ -52,6 +52,13 @@
             //Empolyee<double> empolyee = new Empolyee<double>();
             #endregion
 
+            #region Q8
+            //Q8:What is the 'class' constraint? Write an example.
+            //Answer:It allows the generic parameter to accept only references types.
+            //Person<Student> person = new Person<Student>();
+
+            #endregion
+
 
 
 
