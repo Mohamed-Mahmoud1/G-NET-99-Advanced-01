@@ -83,6 +83,13 @@ internal class Program
         //Person<Student> person = new Person<Student>();
         #endregion
 
+        #region Q13
+        //Q13:What does the 'default' keyword do in generics?
+        //Answer:returns the default value of a given type parameter.
+        #endregion
+
+
+
 
 
 
