@@ -77,6 +77,14 @@ internal class Program
         //Person<Student> person = new Person<Student>();
         #endregion
 
+        #region Q12
+        //Q12:How do you apply multiple constraints? Write an example. 
+        //Answer:first the base class, then any interfaces, and finally the new() constraint,Each constraint is separated by a comma.
+        //Person<Student> person = new Person<Student>();
+        #endregion
+
+
+
 
 
 
