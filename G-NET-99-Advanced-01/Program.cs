@@ -109,6 +109,13 @@ internal class Program
         //Answer:covariance use out keyword and contravariance use in keyword.
         #endregion
 
+        #region Q18
+        //Q18::How do static members work in generic types?
+        //Answer:They work independently,each closed type has its own distinct static member.
+        #endregion
+
+
+
 
 
 
