@@ -56,7 +56,12 @@
             //Q8:What is the 'class' constraint? Write an example.
             //Answer:It allows the generic parameter to accept only references types.
             //Person<Student> person = new Person<Student>();
+            #endregion
 
+            #region Q9
+            //Q9:What is the 'new()' constraint? Write an example.
+            //Answer:It allows the generic parameter to accept only types that have a public parameterless constructor.
+            //Person<Student> person = new Person<Student>();
             #endregion
 
 
