@@ -15,6 +15,13 @@
             //Container<int> container = new Container<int>(20);
             //Console.WriteLine($"Value Of Generic Class:{container.Value}");
             #endregion
+
+            #region Q3
+            //Q3:What are multiple type parameters? Write Pair<TKey, TValue>.
+            //Answer:Multiple type parameters allow you to define different data types for class members when you use them.
+            //Pair<char, int> pair = new Pair<char, int>('A',95);
+            //Console.WriteLine($"Key:{pair.key}\nValue:{pair.Value}");
+            #endregion
         }
     }
 }
