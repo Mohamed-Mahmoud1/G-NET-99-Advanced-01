@@ -88,6 +88,14 @@ internal class Program
         //Answer:returns the default value of a given type parameter.
         #endregion
 
+        #region Q14
+        //Q14:: Write a SafeList<T> that returns default when the index is invalid
+        //SafeList<int> safelist = new SafeList<int>(5);
+        //Console.WriteLine(safelist.ValueOfIndex(6));
+        #endregion
+
+
+
 
 
 
