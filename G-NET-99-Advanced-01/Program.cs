@@ -22,6 +22,20 @@
             //Pair<char, int> pair = new Pair<char, int>('A',95);
             //Console.WriteLine($"Key:{pair.key}\nValue:{pair.Value}");
             #endregion
+
+            #region Q4
+            //Q4:What is a generic method? Write Swap<T> method.
+            //Answer:A generic method allows you to write a method definition without specifying the method's data types, letting you specify the types when you call or use the method.
+            //int number01 = 5;
+            //int number02 = 10;
+            //SwapHelper.Swap<int>(ref number01, ref number02);
+            //Console.WriteLine(number01);
+            //Console.WriteLine(number02);
+
+            #endregion
+
+
+
         }
     }
 }
