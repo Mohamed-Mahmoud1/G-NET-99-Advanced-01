@@ -71,6 +71,12 @@ internal class Program
         //Person<Student> person = new Person<Student>();
         #endregion
 
+        #region Q11
+        //Q11:What is the base class constraint? Write an example.
+        //Answer:It allows the generic parameter to accept only that specific class or types that inherit from it.
+        //Person<Student> person = new Person<Student>();
+        #endregion
+
 
 
 

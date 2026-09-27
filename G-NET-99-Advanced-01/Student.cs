@@ -4,7 +4,7 @@ using System.Text;
 
 namespace G_NET_99_Advanced_01
 {
-    internal class Student : IRepository
+    internal class Student : Utility, IRepository
     {
         public string GetAll()
         {
